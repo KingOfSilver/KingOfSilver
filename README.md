@@ -1,4 +1,6 @@
- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+<div>
+  하이!
+<div>
 
 <!---
 KingOfSilver/KingOfSilver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
