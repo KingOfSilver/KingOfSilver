@@ -3,7 +3,13 @@
 [![My Skills](https://skillicons.dev/icons?i=js,java,jpa,html,css,wasm)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs&theme=light)](https://skillicons.dev)
-출처: https://dawonny.tistory.com/460 [Let Wonny Code:티스토리]
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,java" />
+  </a>
+</p>
+
 <!---
 KingOfSilver/KingOfSilver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
