@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=진수의%20README&fontSize=60&fontColor=#FAFAFA)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=진수의%20README&fontSize=60&fontColor=#FAFAFA)
 
 [![My Skills](https://skillicons.dev/icons?i=js,java,jpa,html,css,wasm)](https://skillicons.dev)
 
