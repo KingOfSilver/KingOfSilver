@@ -1,6 +1,4 @@
-<div>
-  <img src="https://img.shields.io/badge/리액트-61DAFB?style=flat&logo=React&logoColor=white"/>
-<div>
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 <!---
 KingOfSilver/KingOfSilver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
